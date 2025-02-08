@@ -55,6 +55,25 @@
     transform: translateY(6px);
 } /************************************************************************************/
 
+/*.overall-title {
+    font-family: 'Arial', 
+    sans-serif; 
+    font-size: 30px; 
+    font-weight: bold; 
+    color: #2c3e50; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    text-align: center; 
+    width: 100%;
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    padding: 20px; 
+    border-top: 4px solid #3498db;
+    border-bottom: 4px solid #3498db;
+}*/
+
+
 .portfolio_projects {
     display: grid;
     grid-template-columns: 1fr 1fr;
